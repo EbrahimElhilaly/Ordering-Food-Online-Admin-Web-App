@@ -1,0 +1,17 @@
+net\seniorsteps\senior\seniorspring\bl\manger\impl\OrderManagerImpl.class
+net\seniorsteps\senior\seniorspring\bl\transformers\BranchTransformer.class
+net\seniorsteps\senior\seniorspring\bl\managers\UserManager.class
+net\seniorsteps\senior\seniorspring\bl\SeniorBLGateway.class
+net\seniorsteps\senior\seniorspring\bl\transformers\OrderTransformer.class
+net\seniorsteps\senior\seniorspring\bl\manger\impl\UserManagerImpl.class
+net\seniorsteps\senior\seniorspring\bl\managers\OrderManager.class
+net\seniorsteps\senior\seniorspring\bl\manger\impl\MenuManagerImpl.class
+net\seniorsteps\senior\seniorspring\bl\transformers\AreaTransformer.class
+net\seniorsteps\senior\seniorspring\bl\transformers\CityTransformer.class
+net\seniorsteps\senior\seniorspring\bl\managers\LookupsManager.class
+net\seniorsteps\senior\seniorspring\bl\managers\MenuManager.class
+net\seniorsteps\senior\seniorspring\bl\transformers\CommonTransformer.class
+net\seniorsteps\senior\seniorspring\bl\transformers\ProductTransformers.class
+net\seniorsteps\senior\seniorspring\bl\transformers\ProviderTransformer.class
+net\seniorsteps\senior\seniorspring\bl\manger\impl\LookupsManagerImpl.class
+net\seniorsteps\senior\seniorspring\bl\transformers\ConsumerTransformer.class
